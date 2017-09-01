@@ -1,0 +1,2 @@
+# 1mad
+GitHub Pages
